@@ -45,3 +45,12 @@ The following is an overview of the project’s folder structure, detailing the 
 - **Contents**:
   - **Conversion Script**: Converts the JSON news files to JSONL format for annotation.
   - **Preprocessing and Training Script**: Preprocesses the annotated files and trains the machine learning model based on the annotated data.
+ 
+## Setup Instructions
+
+### Dependencies and Packages for Python
+- **pandas**: For data manipulation
+- **numpy**: For numerical operations
+- **scikit-learn**: For machine learning tasks
+- **json**: For handling JSON files
+- **Prodigy**: For annotating datasets (ensure you have a valid license)
