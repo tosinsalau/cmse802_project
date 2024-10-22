@@ -1,7 +1,7 @@
 # Cmse802_project
 
 
-# Project Title: "What factors distinguish retaliatory/reprisal acts from indsiscriminate violence"
+# Project Title: "Detecting Retaliatory and Reprisal Acts of Violence using Semi-Supervised Machine Learning "
 
 
 ## Project Description
