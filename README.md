@@ -1,14 +1,14 @@
 # Cmse802_project
 
 
-# Project Title: "Detecting Retaliatory and Reprisal Acts of Violence using Semi-Supervised Machine Learning "
+# Title: Detecting Retaliatory and Reprisal Acts of Violence using Semi-Supervised Machine Learning 
 
 
-## Project Description
+## Description
 This project explores detecting selective and indiscriminate violence by the government on civilians. I term selective violence as retaliatory acts or reprisals by the govenrmnet following actions either by rebel groups or the communities. To do this I plan to use semi-supervised machine learning to train a model on news data to be able to distinguish between these two acts. The project will particularly focus on government-led reprisals. 
 
 
-## Project Objectives
+## Objectives
 1. First, there is a debate in the conflict literature on whether govenrmnet violence has a reducing effect on insurgent activities. I plan on developing a model that can distinguish between selective and indiscriminate violence to see whether both or either have a reducing effect on insurgent activities
 2. This project will train model that would be able to label news articles to identify retaliatory acts and differentiate them from non-reprisal acts.
 3. The project will analyze model performance using metrics such as accuracy, precision, recall, and F1-score.
