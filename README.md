@@ -48,7 +48,7 @@ The following is an overview of the project’s folder structure, detailing the 
  
 ## Setup Instructions
 
-### Dependencies and Packages
+### Dependencies and Packages for Python
 - **pandas**: For data manipulation
 - **numpy**: For numerical operations
 - **scikit-learn**: For machine learning tasks
